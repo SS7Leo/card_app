@@ -1,6 +1,3 @@
-Here is a README file structure tailored for your React project, **"Card App"**, based on the given format:  
-
----
 
 # BUSINESS CARD WEB APP USING REACT.JS
 
