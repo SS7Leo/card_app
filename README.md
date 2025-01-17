@@ -42,9 +42,9 @@ This project showcases the use of React for frontend development, Tailwind CSS f
 
 ## Output  
 ### Screenshots:
-- Screenshot 1: Home Page showcasing card management interface.  
-- Screenshot 2: Add Card functionality with a user-friendly form.  
-- Screenshot 3: Responsive design on mobile and desktop views.  
+- ![Image](https://github.com/user-attachments/assets/f47e2548-5d85-48ba-85c7-27946415713e)
+- ![Image](https://github.com/user-attachments/assets/0aff38e9-8b1b-4aba-bdb8-ece70e09f54f)
+- ![Image](https://github.com/user-attachments/assets/4088caea-f0cb-4b14-b957-7ea0be7e1b0f)
 
 ---
 
