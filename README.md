@@ -43,6 +43,9 @@ This project showcases the use of React for frontend development, Tailwind CSS f
 ## Output  
 ### Screenshots:
 - ![Image](https://github.com/user-attachments/assets/f47e2548-5d85-48ba-85c7-27946415713e)
+- ![Image](https://github.com/user-attachments/assets/8aae7add-91b1-44bc-8982-22c03eaa2d2c)
+- ![Image](https://github.com/user-attachments/assets/bb85f9c1-fd3c-40cb-bec6-6de41720d411)
+- ![Image](https://github.com/user-attachments/assets/90c168c1-bf83-463c-b003-48ef6668cadb)
 
 
 ---
